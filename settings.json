@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": fasle,
+      "repeat": false,
       "repeat-delay": 0,
       "messages": [
       
